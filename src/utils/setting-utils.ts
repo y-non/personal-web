@@ -7,7 +7,7 @@ import {
 } from "@constants/constants.ts";
 
 export function getDefaultHue(): number {
-	const fallback = "250";
+	const fallback = "320";
 	const configCarrier = document.getElementById("config-carrier");
 	return Number.parseInt(configCarrier?.dataset.hue || fallback);
 }
