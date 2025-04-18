@@ -2,9 +2,11 @@ import { getCollection } from "astro:content";
 import I18nKey from "@i18n/i18nKey";
 import { i18n } from "@i18n/translation";
 
-export async function getSortedPosts() {
+export async function getSortedPosts(lang?: string) {
 	const allBlogPosts = await getCollection("posts", ({ data }) => {
-		return import.meta.env.PROD ? data.draft !== true : true;
+		const isDraft = import.meta.env.PROD ? data.draft !== true : true;
+		const matchesLang = lang ? data.lang === lang : true;
+		return isDraft && matchesLang;
 	});
 
 	const sorted = allBlogPosts.sort((a, b) => {

@@ -12,6 +12,7 @@ interface Props {
 }
 const { tags, categories } = Astro.props;
 
+
 let posts = await getSortedPosts();
 
 if (Array.isArray(tags) && tags.length > 0) {
