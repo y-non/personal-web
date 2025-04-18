@@ -8,7 +8,7 @@ category: Language
 draft: false
 ---
 
-> Cover image source: Cherry blossoms in Japan representing the beautiful beginning of your language journey!
+> Cover image source: [Source](https://www.pinterest.com/pin/56154326595190873/)
 
 # こんにちは! (Hello!) Welcome to Japanese Learning! ✨
 
