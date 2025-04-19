@@ -2,7 +2,7 @@
 title: Hello world! - First post to let you all get to know me better
 published: 2025-01-28
 description: A personal introduction - sharing my journey, passions, and connecting with like-minded folks.
-tags: [Self, Blogging, Portfolio, Code, Languages, Learning]
+tags: [Self, Blogging, Portfolio]
 category: Myself
 draft: false
 ---
