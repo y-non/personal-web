@@ -2,7 +2,7 @@
 title: Master Chinese in Record Time - The 100 Most Essential Hanzi You NEED to Know!
 published: 2025-08-04
 description: "Unlock the secrets of Chinese reading with the 100 most common hanzi characters! From basic strokes to compound meanings, start your Chinese journey the smart way."
-# image: "./chinese-calligraphy-brush.jpg"
+image: "./images/chinese-calligraphy-brush.jpg"
 tags: ["Chinese", "Hanzi", "Language Learning", "Mandarin", "Beginners"]
 category: Language
 draft: false
