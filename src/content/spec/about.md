@@ -9,5 +9,4 @@
 
 > ### Link to my social media
 > - [Github](https://github.com/y-non/)
-> - [Facebook](https://www.facebook.com/yonnonnn/)
 > - [Telegram](https://t.me/yonnonn)
