@@ -1,5 +1,5 @@
 ---
-title: Hello world! - First post to let you all get to know me better
+title: Sawah Nihao! - First post to let you all get to know me better
 published: 2025-01-28
 description: A personal introduction - sharing my journey, passions, and connecting with like-minded folks.
 tags: [Self, Blogging, Portfolio]
@@ -11,7 +11,7 @@ draft: false
 
 Hello everyone! 👐
 
-My real name is Tran Anh Khoa, though most people in my circle know me simply as Yonnon. I'm absolutely delighted to welcome you to this little corner of the internet I can finally call my own. I've been meaning to create this space for quite some time, and it feels wonderful to finally share it with you all.
+My name is Khoa, though most people in my circle know me simply as Yonnon. I'm absolutely delighted to welcome you to this little corner of the internet I can finally call my own. I've been meaning to create this space for quite some time, and it feels wonderful to finally share it with you all.
 
 ## My Professional Journey
 

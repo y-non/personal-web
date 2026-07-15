@@ -2,7 +2,7 @@
 title: "Supabase Mastery: Essential Tips for Building Scalable Backends"
 published: 2025-07-23
 description: "Discover advanced Supabase techniques, performance optimizations, and real-world patterns that will transform your full-stack development workflow."
-image: "./supabase-coding-banner.jpg" 
+image: "./images/supabase-coding-banner.jpg" 
 tags: ["Supabase", "PostgreSQL", "Backend", "Full-Stack", "Database", "Authentication"]
 category: "Programming"
 draft: false

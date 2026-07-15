@@ -1,14 +1,14 @@
 ---
-title: 🚀 JavaScript Interview Mastery - 20 Essential Questions Every Developer Should Know
+title: JavaScript Interview Mastery - 20 Essential Questions Every Developer Should Know
 published: 2025-08-03
 description: "Master the most common JavaScript interview questions with clear explanations, examples, and practical tips to ace your next technical interview!"
-image: "./JavaScript-Interview-Questions-and-Answers-2025.jpg"
+image: "./images/JavaScript-Interview-Questions-and-Answers-2025.jpg"
 tags: ["JavaScript", "Interview", "Web Development", "Programming", "Career"]
 category: Programming
 draft: false
 ---
 
-> Ready to crush your next JavaScript interview? Let's dive into the questions that matter most! 💪
+> Ready to crush your next JavaScript interview? Let's dive into the questions that matter most! 
 
 # Hey Future JavaScript Rockstar! 🌟
 
@@ -16,7 +16,7 @@ Whether you're a bootcamp grad preparing for your first tech role or a seasoned 
 
 I've compiled the **20 most frequently asked JavaScript questions** that you'll encounter in 90% of technical interviews. Master these, and you'll walk into that interview room with confidence! ✨
 
-## The Big Three: Equality, Scope, and Types 🎯
+## The Big Three: Equality, Scope, and Types 
 
 ### 1. What's the difference between == and ===?
 
@@ -86,7 +86,7 @@ myVar = 5; // assignment stays in place
 
 **Key point:** Only declarations are hoisted, not initializations!
 
-## Advanced Concepts That Make You Stand Out 🧠
+## Advanced Concepts That Make You Stand Out 
 
 ### 4. What is a closure?
 
@@ -152,7 +152,7 @@ document.querySelector('.container').addEventListener('click', (e) => {
 
 **Benefits:** Better performance, works with dynamically added elements!
 
-## Async Programming Mastery 🔄
+## Async Programming Mastery 
 
 ### 7. async/await vs Promises
 
@@ -177,7 +177,7 @@ async function loadUserPosts(id) {
 }
 ```
 
-## Performance and Optimization 🚀
+## Performance and Optimization 
 
 ### 8. Debounce vs Throttle
 
@@ -230,7 +230,7 @@ element.style.height = '100px';
 element.style.cssText = 'width: 200px; height: 100px;';
 ```
 
-## Web Security Essentials 🔒
+## Web Security Essentials 
 
 ### 10. How to prevent XSS attacks?
 
@@ -263,7 +263,7 @@ fetch('https://api.different-domain.com/data')
 // Access-Control-Allow-Origin: https://your-domain.com
 ```
 
-## Storage and Caching 💾
+## Storage and Caching 
 
 ### 12. sessionStorage vs localStorage vs cookies
 
@@ -284,7 +284,7 @@ sessionStorage.setItem('tempData', 'value');
 document.cookie = 'user=john; expires=Thu, 18 Dec 2025 12:00:00 UTC';
 ```
 
-## HTTP and Network Fundamentals 🌐
+## HTTP and Network Fundamentals 
 
 ### 13. GET vs POST differences
 
@@ -324,7 +324,7 @@ res.setHeader('Cache-Control', 'no-cache'); // Always validate
 res.setHeader('Cache-Control', 'no-store'); // Never cache
 ```
 
-## Modern Web Performance 📈
+## Modern Web Performance 
 
 ### 15. Explain lazy loading
 
@@ -353,7 +353,7 @@ WebP provides 25-50% better compression than JPEG/PNG with same quality!
 </picture>
 ```
 
-## CSS Layout Fundamentals 🎨
+## CSS Layout Fundamentals 
 
 ### 17. inline vs inline-block vs block
 
@@ -394,7 +394,7 @@ Understanding the cascade is crucial for maintainable CSS:
 | **fixed** | Viewport | Navigation, modals |
 | **sticky** | Scroll container | Sticky headers |
 
-## Modern React Concepts ⚛️
+## Modern React Concepts 
 
 ### 20. What is the Virtual DOM?
 
@@ -438,7 +438,7 @@ After conducting dozens of technical interviews, here's what I've learned:
 ### The Secret Sauce:
 Don't just memorize answers - understand the **why** behind each concept. Interviewers can tell the difference between memorization and true understanding!
 
-## Quick Reference Cheat Sheet 📋
+## Quick Reference Cheat Sheet 
 
 Keep this handy for last-minute review:
 
@@ -453,7 +453,7 @@ Keep this handy for last-minute review:
 - **CORS**: Server controls cross-origin access
 - **Virtual DOM**: Efficient diffing and patching
 
-## You've Got This! 🎉
+## You've Got This! 
 
 Remember, interviews are conversations, not interrogations. These concepts form the foundation of modern JavaScript development, and mastering them will make you a better developer regardless of whether you're interviewing.
 
@@ -463,6 +463,6 @@ The key is consistent practice and building real projects that use these concept
 
 ---
 
-Good luck with your interview! Remember, the goal isn't to know everything perfectly - it's to demonstrate that you understand the fundamentals and can think through problems logically. You've got this! 🚀
+Good luck with your interview! Remember, the goal isn't to know everything perfectly - it's to demonstrate that you understand the fundamentals and can think through problems logically. You've got this! 
 
 *Questions or want to share your interview success story? Drop a comment below - I'd love to hear from you!*

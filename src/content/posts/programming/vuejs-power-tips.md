@@ -2,7 +2,7 @@
 title: "Vue.js Power Tips: Level Up Your Frontend Development"
 published: 2025-04-19
 description: "Discover practical Vue.js techniques to enhance your development workflow, boost performance, and write cleaner, more maintainable code."
-image: "./vue-coding-banner.jpg" 
+image: "./images/vue-coding-banner.jpg" 
 tags: ["Vue.js", "JavaScript", "Frontend", "Web Development", "Performance"]
 category: "Programming"
 draft: false
